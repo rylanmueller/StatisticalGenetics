@@ -1,1 +1,1 @@
-PopulationInference.qmd contains the entire project.
+index.qmd contains the entire project.
